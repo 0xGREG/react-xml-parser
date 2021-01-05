@@ -1,6 +1,6 @@
 {
     "name": "@gregjay/react-xml-parser",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "XML Parser for React",
     "main": "index.js",
     "repository": {
